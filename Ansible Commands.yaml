@@ -1,0 +1,4 @@
+Ansible Commands
+
+to gather facts from a specific machine, run the following command
+	ansible (host) -m setup -u root
